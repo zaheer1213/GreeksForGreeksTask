@@ -1,0 +1,12 @@
+.searchBox{
+    margin: 10px;
+
+}
+.heading{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.searchBox{
+    margin: 10px;
+}
